@@ -1,0 +1,1 @@
+<?php // The existence of this file prevents the installer from running. Don't delete it unless you want to re-run the installation, or you have deleted ./install.php.
