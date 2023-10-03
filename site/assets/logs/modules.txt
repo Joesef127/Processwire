@@ -6,3 +6,8 @@
 2023-10-02 11:37:58	admin	http://localhost:8888/processwire-dev/processwire/setup/field/add	Installed module 'InputfieldPageAutocomplete'
 2023-10-02 11:37:59	admin	http://localhost:8888/processwire-dev/processwire/setup/field/add	Installed module 'InputfieldTextTags'
 2023-10-02 11:38:36	admin	http://localhost:8888/processwire-dev/processwire/setup/field/edit?id=98	Installed module 'TextformatterMarkdownExtra'
+2023-10-03 10:06:59	admin	http://localhost:8888/processwire-dev/processwire/module/	Installed module 'ModulesManager'
+2023-10-03 10:09:15	admin	http://localhost:8888/processwire-dev/processwire/module/edit?name=ModulesManager&collapse_info=1	Uninstalled module 'ModulesManager'
+2023-10-03 10:17:32	admin	http://localhost:8888/processwire-dev/processwire/module/	Installed module 'ProcessWireUpgradeCheck'
+2023-10-03 10:17:32	admin	http://localhost:8888/processwire-dev/processwire/module/	Installed module 'ProcessWireUpgrade'
+2023-10-03 10:19:13	admin	http://localhost:8888/processwire-dev/processwire/module/	Installed module 'ProcessDatabaseBackups'
